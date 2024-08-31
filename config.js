@@ -12,22 +12,22 @@ global.antitags = false;
 
 //auto functioner
 global.autoTyping = false;                //make true to enable auto typing
-global.autoRecord = true;                //make true to enable auto recording
+global.autoRecord = false;                //make true to enable auto recording
 global.groupevent = true;                //This is the new variable for controlling group event handling.
 global.statusseen = false;                 //make true to view statuses 
 global.ANTI_BOT = false;
 global.PM_BLOCKER = false;
 global.CHATBOT = false;
 
-global.SESSION_ID = process.env.SESSION_ID || ""
-global.Owner = ["2348138686232"]; //like 2347080968564 
-global.OwnerName =  "Tᴀɪʀᴀ Mᴀᴋɪɴᴏ";
-global.BotName = "♱MAKINO-MD-V2♱♡⃤";
-global.packname = "♱MAKINO-MD-V2♱♡⃤";                             //Do not change.
-global.author = "TAIRA MAKINO";                               //Do not change.
-global.BotSourceCode = "https://github.com/anonphoenix007/MAKINO-MD-V2"; //Do not change.
-global.SupportGroupLink = "https://chat.whatsapp.com/DOVRqF006VHHZhiSNwJRce"; 
-global.SupportGroupLink = "https://chat.whatsapp.com/DOVRqF006VHHZhiSNwJRce"; //Do not change!
+global.SESSION_ID = process.env.SESSION_ID || "taira_tech-TVfC9Nq1"
+global.Owner = ["917559414182"]; //like 2347080968564 
+global.OwnerName =  "ARYA";
+global.BotName = "♱CRIMSON💙♱♡⃤";
+global.packname = "♱CRIMSON♱♡⃤";                             //Do not change.
+global.author = "💙";                               //Do not change.
+global.BotSourceCode = "https://github.com"; //Do not change.
+global.SupportGroupLink = "https://chat.whatsapp.com"; 
+global.SupportGroupLink = "https://chat.whatsapp.com"; //Do not change!
 global.menutype = "v3"
 
 global.prefa = ['','!','.',','] 
@@ -63,7 +63,7 @@ global.ntilink = []
 //
 global.mess = {
     jobdone: 'Here you go...',
-    useradmin: 'Only group Admin can use the command 😂 ',
+    useradmin: 'Only group Admin can use the command ',
     botadmin: 'Make me Admin first 😌📍.',
     botowner: 'Only my *Owner* can use this command!',
     grouponly: 'This command is only made for *Groups*',
